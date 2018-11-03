@@ -1,4 +1,4 @@
-package com.github.liweijie.aidl.domain;
+package com.github.liweijie.aidl.domain.status;
 
 /**
  * 作者：黎伟杰 on 2018/10/28.

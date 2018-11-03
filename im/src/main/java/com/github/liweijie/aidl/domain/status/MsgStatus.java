@@ -9,5 +9,17 @@ package com.github.liweijie.aidl.domain.status;
  *
  * @author liweijie
  */
-public class MsgStatus {
+public enum MsgStatus {
+    /**
+     * 发送中
+     */
+    SENDING,
+    /**
+     * 发送失败
+     */
+    FAIL,
+    /**
+     * 发送成功
+     */
+    SUCCESS
 }

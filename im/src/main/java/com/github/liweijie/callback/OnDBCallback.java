@@ -9,5 +9,7 @@ package com.github.liweijie.callback;
  *
  * @author liweijie
  */
-public class OnDBCallback {
+public interface OnDBCallback {
+    //包括增删查改
+
 }
